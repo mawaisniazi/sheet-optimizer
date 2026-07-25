@@ -1776,6 +1776,7 @@ limitations under the License.
 --------------------------------------------------------------------------------
 cross_file
 flutter_plugin_android_lifecycle
+in_app_purchase
 in_app_purchase_android
 in_app_purchase_storekit
 path_provider_android
@@ -5399,7 +5400,6 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 flutter_lints
-in_app_purchase
 in_app_purchase_platform_interface
 path_provider
 path_provider_linux
